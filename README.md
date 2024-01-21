@@ -1,0 +1,1 @@
+# VEQT-Stock-Analyzer
